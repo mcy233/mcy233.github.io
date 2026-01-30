@@ -11,15 +11,12 @@ Researching the intersection of artificial intelligence and game development.
 Email: s-mcy25@bjzgca.edu.cn
 
 #### Education
-- 2025-- , 天津大学 && 北京中关村学院, 动力机械及工程.\
-- 2023-2025, 天津大学, 能源动力.\
-- 2016-2020, 华中科技大学, 工程力学.
 
-- 2025–Present　Ph.D. in Power Machinery and Engineering\
-　              Tianjin University & Beijing Zhongguancun College (Joint Program)\
-- 2023–2025　　　M.Eng. in Energy and Power Engineering\
+- 2025–Present  Ph.D. in Power Machinery and Engineering\
+　              Tianjin University & Beijing Zhongguancun Academy
+- 2023–2025     M.E. in Energy and Power Engineering\
 　              Tianjin University\
-- 2016–2020　　　B.Eng. in Engineering Mechanics\
+- 2016–2020     B.E. in Engineering Mechanics\
 　              Huazhong University of Science and Technology
 
 #### Research Interests
