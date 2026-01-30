@@ -15,7 +15,7 @@ Email: s-mcy25@bjzgca.edu.cn
 - 2025–Present  Ph.D. in Power Machinery and Engineering\
 　              Tianjin University & Beijing Zhongguancun Academy
 - 2023–2025     M.E. in Energy and Power Engineering\
-　              Tianjin University\
+　              Tianjin University
 - 2016–2020     B.E. in Engineering Mechanics\
 　              Huazhong University of Science and Technology
 
